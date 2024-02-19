@@ -9,6 +9,8 @@ El rock tiene muchas ramas
 * Rock psicodelic
 * Rock alternativo
 * Hard rock
+* Indie rock
+* New wave
 
 Y como un amable recordatorio: **Este readme.md es un chiste**
 
