@@ -1,7 +1,15 @@
 NUEVO CAMBIO
 
+<<<<<<< HEAD
 MASTER 1
 
 MASTER 2
+=======
+Experimento 1 
+
+Experimento 2
+
+
+>>>>>>> experimento
 
 QQQQQQQQQQQQ
